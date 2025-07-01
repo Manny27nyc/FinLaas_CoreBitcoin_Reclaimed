@@ -21,3 +21,11 @@ Contact: **Fordamboy1@gmail.com**
 - original authorship declaration files
 
 📦 See: [Bitcoin_Notarized_SignKit](https://github.com/Manny27nyc/Bitcoin_Notarized_SignKit)
+
+## 🔗 Reference: Bitcoin Notarized SignKit
+
+This repository is linked to the canonical authorship declaration:
+
+→ [Bitcoin_Notarized_SignKit](https://github.com/Manny27nyc/Bitcoin_Notarized_SignKit)
+
+All licensing, notarization, and authorship metadata originates there.
