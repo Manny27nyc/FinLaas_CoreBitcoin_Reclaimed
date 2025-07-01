@@ -1,1 +1,1 @@
-c86163316432a1e0a5c49b98a06d9e797d23488afbc6034b62476f04d232481c  FinLaas_CoreBitcoin_Reclaimed_v1.0.0.zip
+c86163316432a1e0a5c49b98a06d9e797d23488afbc6034b62476f04d232481c  release_bundle/FinLaas_CoreBitcoin_Reclaimed_v1.0.0.zip
